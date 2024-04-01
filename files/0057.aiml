@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml>
   <category>
-    <pattern>HI</pattern>
+    <pattern>*</pattern>
     <template>Hi! I'am HU22CSEN0300057'S Chatbot</template>
-    <pattern> My NAME IS *</pattern>
     <template>Hi! Sreeya! Nice To Meet you! Here are your Details:</template>
     <template>Name:B.Sai Sreeya Naidu</template>
     <template>Class: CSE-AIML</template>
