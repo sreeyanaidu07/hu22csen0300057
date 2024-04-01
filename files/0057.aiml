@@ -2,12 +2,12 @@
 <aiml>
   <category>
     <pattern>*</pattern>
-    <template>Hi! I'am HU22CSEN0300057'S Chatbot</template>
-    <template>Hi! Sreeya! Nice To Meet you! Here are your Details:</template>
-    <template>Name:B.Sai Sreeya Naidu</template>
-    <template>Class: CSE-AIML</template>
-    <template>ID:HU22CSEN0300057</template>
-    <template>GITAM DEEMED TO BE UNIVERSITY</template>
-    <template>CGPA-8.1</template>
+    <template>Hi! I'am HU22CSEN0300057'S Chatbot
+    Hi! Sreeya! Nice To Meet you! Here are your Details:
+    Name:B.Sai Sreeya NaidU
+    Class: CSE-AIML
+    ID:HU22CSEN0300057
+    GITAM DEEMED TO BE UNIVERSITY
+    CGPA-8.1</template>
   </category>
 </aiml>
